@@ -12,7 +12,7 @@ This project was bootstrapped with [Vue CLI](https://cli.vuejs.org/)
 ## Getting started
 1. [Clone this repository](https://help.github.com/articles/cloning-a-repository/) using the [GitHub Command line tool](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and navigate into the downloaded directory.
     ```sh
-    git clone https://github.tools.sap/D074167/vue-ui5-webcomponents-playground
+    git clone https://github.com/ehni/vue-ui5-webcomponents-playground
     cd vue-ui5-webcomponents-playground
     ```
 1. Install all dependencies
