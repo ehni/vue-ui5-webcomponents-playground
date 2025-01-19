@@ -25,6 +25,13 @@ This project was bootstrapped with [Vue CLI](https://cli.vuejs.org/)
     npm run dev
     ```
 
+## Run tests
+
+1. Execute tests with vitest
+    ```sh
+    npm run test
+    ```
+
 
 ## Noteworthy
  
